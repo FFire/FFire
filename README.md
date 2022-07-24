@@ -1,7 +1,11 @@
-### Hi there 👋
-
-
 [![StackOverflow][SO_Badge]][1]
+
+### Hi there 👋 my name is Alexander.
+💻 I like programming and automating processes.
+
+🎈 But so far programming is just a hobby.
+
+
 
 [SO_Badge]: https://stackoverflow-badge.vercel.app/?userID=87713 "StackOverflow reputation"
 [1]: https://stackoverflow.com/users/87713/wasitshafi
